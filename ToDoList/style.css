@@ -1,0 +1,50 @@
+body{
+    background-color: blue;
+}
+
+.container{
+    margin: auto;
+    margin-top: 75px;
+    padding-top: 20px;
+    padding-left: 19px;
+    background: white;
+    width: 300px;
+    height: 400px;
+    max-height: fit-content;
+    border: none;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+input{
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(206, 206, 206);
+    height: 22px;
+    width: 170px;
+}
+
+.addbutton{
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(206, 206, 206);
+    height: 22px;
+}
+
+.clear{
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(206, 206, 206);
+    height: 22px;
+}
+h2{
+    margin: auto;
+}
+
+.xButton{
+    background-color: rgb(254, 26, 26);
+    border-radius: 5px;
+    height: 17px;
+    width: 25px;
+    border: none;
+}
